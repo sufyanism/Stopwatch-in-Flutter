@@ -22,6 +22,7 @@ Replace the default lib folder with the provided tutorial files: - main.dart - s
 flutter run
 
 ## 📂 Project Structure
+```plaintext
 flutter_stopwatch_app/
 │
 ├── lib/
@@ -30,6 +31,7 @@ flutter_stopwatch_app/
 │
 ├── pubspec.yaml               → Project configuration
 └── README.md                  → Documentation
+```
 
 ## 🧠 How It Works
 The stopwatch uses Dart’s native Stopwatch class for accurate time measurements. A Timer.periodic() refreshes the UI every 30ms, ensuring a smooth display.
@@ -66,3 +68,4 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
