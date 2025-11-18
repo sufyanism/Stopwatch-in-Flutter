@@ -11,16 +11,22 @@ This is a clean and functional Flutter Stopwatch App built using Flutter’s bui
 
 ## 🚀 Getting Started
 Follow these steps to set up and run the project:
-**1. Install Flutter**
+- **1. Install Flutter**
 If you haven’t already, follow the official installation guide:
 👉 Flutter Setup Guide
-**2. Create a new Flutter project**
-flutter create flutter_stopwatch_app
-**3. Add the code**
-Replace the default lib folder with the provided tutorial files: - main.dart - stopwatch_page.dart
-**4. Run the application**
-flutter run
 
+- **2. Create a new Flutter project**
+```sh
+flutter create flutter_stopwatch_app
+```
+
+- **3. Add the code**
+Replace the default lib folder with the provided tutorial files: - main.dart - stopwatch_page.dart
+
+- **4. Run the application**
+```sh
+flutter run
+```
 ## 📂 Project Structure
 ```plaintext
 flutter_stopwatch_app/
@@ -72,6 +78,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
 
 
