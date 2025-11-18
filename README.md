@@ -37,8 +37,12 @@ flutter_stopwatch_app/
 The stopwatch uses Dart’s native Stopwatch class for accurate time measurements. A Timer.periodic() refreshes the UI every 30ms, ensuring a smooth display.
 
 **Timer Behavior:**
-When the user interacts with buttons: - Start → starts the stopwatch and triggers UI updates. - Stop → halts the stopwatch and stops periodic updates. - Lap → stores the current elapsed time. - Reset → stops timer, resets stopwatch, and clears lap records.
-Lap entries are displayed in a scrollable list, with newest laps shown first.
+When the user interacts with buttons: 
+- Start → starts the stopwatch and triggers UI updates.
+- Stop → halts the stopwatch and stops periodic updates.
+- Lap → stores the current elapsed time.
+- Reset → stops timer, resets stopwatch, and clears lap records.
+- Lap entries are displayed in a scrollable list, with newest laps shown first.
 
 ## 💻 Core Code Overview
 - _start(): Begins the stopwatch and initializes a 30ms periodic update.
@@ -68,4 +72,5 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
