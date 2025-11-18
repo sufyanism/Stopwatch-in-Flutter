@@ -40,7 +40,7 @@ flutter_stopwatch_app/
 ```
 
 ## 🧠 How It Works
-The stopwatch uses Dart’s native Stopwatch class for accurate time measurements. A Timer.periodic() refreshes the UI every 30ms, ensuring a smooth display.
+The stopwatch uses Dart’s native Stopwatch class for accurate time measurements. A **Timer.periodic()** refreshes the UI every 30ms, ensuring a smooth display.
 
 **Timer Behavior:**
 When the user interacts with buttons: 
@@ -78,6 +78,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
 
 
