@@ -57,6 +57,9 @@ _lap(): captures and stores the current elapsed duration.
 _reset(): clears all stored laps and resets the entire stopwatch.
 _formatTime(): formats elapsed time into MM:SS.CC or HH:MM:SS.CC for readability.
 
+## Demo
+https://github.com/user-attachments/assets/ec9cce3a-ea4b-4f49-b8bc-33ae8775e04d
+
 ## 🎨 Future Improvements
 - Add dark mode toggle for theme customization
 - Improve animations using AnimatedSwitcher or TweenAnimationBuilder
@@ -78,6 +81,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
 
 
